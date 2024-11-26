@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="gILxcaClGE2zd7JKFodYmQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://acme-test.uipath.com/login" CVScreenId="f5161927-a9cb-4a6a-8c7c-c9d988bc2fe1" CvElementArea="217, 830, 94, 55" CvTextArea="237, 846, 55, 25" CvTextArgument="Login" CvType="Button" DesignTimeRectangle="221, 833, 89, 50" DesignTimeScaleFactor="1.5" ElementType="Button" FullSelectorArgument="&lt;webctrl tag='BUTTON' type='submit' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='BUTTON' type='submit' class='btn btn-primary' aaname='                             Login                         ' check:innerText='Login' /&gt;" Guid="88f101e7-3463-42d8-8bb3-e5122c90ecce" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Log In' /&gt;" SearchSteps="FuzzySelector, CV" Version="V3" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target CVScreenId="f5161927-a9cb-4a6a-8c7c-c9d988bc2fe1" CvTextArea="246, 777, 143, 19" CvTextArgument="Remember Me" CvType="Text" DesignTimeRectangle="246, 773, 144, 30" ElementType="Text" FullSelectorArgument="&lt;webctrl class='form-check-label' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl class='form-check-label' tag='LABEL' type='' aaname='                                         Remember Me                                     ' check:innerText='Remember Me' /&gt;" Guid="edfcde20-6671-4037-bddb-f406c2175fa4" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="eac464ca8f8f5ec8096d484aebb6ca08.png" xmlns="">0OtGKi7UtbEWJdx9lb5byEg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

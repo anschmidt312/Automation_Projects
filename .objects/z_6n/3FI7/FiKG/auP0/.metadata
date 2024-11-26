@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Check if 'Work Items' page has loaded and extract table for load into Queue",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "auP0ALkJoUOVLXvzS0YC_Q",
+  "Reference": "Qsea5mF1hEixXAFr9oDNGw/auP0ALkJoUOVLXvzS0YC_Q",
+  "ParentRef": "Qsea5mF1hEixXAFr9oDNGw/FiKGvyQcLUa9K_4R1I-piA",
+  "Created": "2024-06-17T20:45:07.2699272Z",
+  "Updated": "2024-06-17T20:45:07.2699272Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
